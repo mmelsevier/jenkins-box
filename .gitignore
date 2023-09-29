@@ -1,0 +1,7 @@
+id_*
+*.pub
+.idea
+.terraform*
+terraform.tfstate
+aws_ssh
+*.log
